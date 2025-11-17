@@ -33,19 +33,24 @@ Visit [my site](https://www.wiltshiresoftware.com) for more info.
 <details>
   <summary>Skills and Technologies</summary>
 
-### Frontend
-Typescript, Angular, Next.js, HTML, CSS, Ionic Capacitor, PrimeNG, Tailwind, DaisyUI
+**Frontend** 
+----
+Typescript, Angular, Next.js, HTML, CSS, Ionic Capacitor, PrimeNG, Tailwind, DaisyUI  
 
-### Backend
-Java (Jakarta EE, Glassfish and Payara), Spring Boot, Python, Flask, FastAPI
+**Backend**  
+----
+Java (Jakarta EE, Glassfish and Payara), Spring Boot, Python, Flask, FastAPI  
 
-### Databases
-SQL, NoSQL, JPQL, schema design, ORMs
+**Databases**
+----  
+SQL, NoSQL, JPQL, schema design, ORMs  
 
-### Dev Ops
+**Dev Ops**
+----
 Jenkins, application deployments, Google Cloud Platform, Android and iOS deployments, SVN, GitHub, Docker, Traefik
 
-### Realtime and Interactive
+**Realtime and Interactive**
+----
 C#, Unity, Unreal Engine, Three.js
 
 </details>
