@@ -35,11 +35,11 @@ Visit [my site](https://www.wiltshiresoftware.com) for more info.
 
 **Frontend** 
 ----
-Typescript, Angular, Next.js, HTML, CSS, Ionic Capacitor, PrimeNG, Tailwind, DaisyUI  
+Typescript, Angular, Next.js, React, HTML, CSS, Ionic Capacitor, PrimeNG, Tailwind, DaisyUI  
 
 **Backend**  
 ----
-Java (Jakarta EE, Glassfish and Payara), Spring Boot, Python, Flask, FastAPI  
+Java (Jakarta EE, Glassfish and Payara), Spring Boot, Python, Flask, FastAPI, Node.js  
 
 **Databases**
 ----  
