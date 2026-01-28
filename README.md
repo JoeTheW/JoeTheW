@@ -4,7 +4,7 @@ Donostia-San Sebastian, Guipúzcoa, Spain
 
 Disciplined full stack software engineer with a strong ability to adapt to project requirements and diverse technologies. Experienced in modern and legacy systems. Passionate about solving complex challenges, innovation, and continuous learning.
 
-Visit [my site](https://www.wiltshiresoftware.com) for more info.
+Visit [my site](https://www.wiltshiresoftware.com) for more info and other work examples.
 
 **Currently open to new work opportunities.**  
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-green)
